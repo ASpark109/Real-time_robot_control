@@ -18,8 +18,7 @@ Software components
 2. Data_transmit: Receiving data and transmitting via com port to a graphical environment.
 3. Visualization: 3d visualization of the robot control process.
 
-![3d_visualization](https://user-images.githubusercontent.com/75342698/154772679-87f84a44-2937-4ff7-ab6a-c3c54770e5a9.png)
-
-
 Video link demonstrating this control method
 https://youtu.be/ZhIVlCFXVjk
+
+![3d_visualization](https://user-images.githubusercontent.com/75342698/154772679-87f84a44-2937-4ff7-ab6a-c3c54770e5a9.png)
