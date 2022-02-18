@@ -9,7 +9,7 @@ Hardware components
 --------------------   
 1. Arduino Uno
 2. Gyroscope and accelerometer GY-85
-3. Pair of radio transmitter / receiver
+3. Pair of radio transmitter / receiver nRF2401
 
 Software components
 -------------------
@@ -17,3 +17,4 @@ Software components
 2. Data_transmit: Receiving data and transmitting via com port to a graphical environment.
 3. Visualization: 3d visualization of the robot control process.
 
+![3d_visualization](https://user-images.githubusercontent.com/75342698/154772679-87f84a44-2937-4ff7-ab6a-c3c54770e5a9.png)
