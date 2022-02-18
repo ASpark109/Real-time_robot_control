@@ -2,10 +2,9 @@ Real-time_robot_control
 -----------------------
   This is a software to demonstrate the method of controlling an industrial robot in real time using an accelerometer and gyroscope.
   This device is basically attached to a special glove, which is worn by the employee. The device operates wirelessly.
+  
   The PDF file contains scientific work that describes the operation of this device.
   A graphical interface has also been created to demonstrate the operation of this method.
-  
-  You can read more about the project in my bachelor's thesis, which describes the process of creating this device.
 
 Hardware components
 --------------------   
@@ -20,3 +19,7 @@ Software components
 3. Visualization: 3d visualization of the robot control process.
 
 ![3d_visualization](https://user-images.githubusercontent.com/75342698/154772679-87f84a44-2937-4ff7-ab6a-c3c54770e5a9.png)
+
+
+Video link demonstrating this control method
+https://youtu.be/ZhIVlCFXVjk
