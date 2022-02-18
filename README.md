@@ -4,6 +4,8 @@ Real-time_robot_control
   This device is basically attached to a special glove, which is worn by the employee. The device operates wirelessly.
   The PDF file contains scientific work that describes the operation of this device.
   A graphical interface has also been created to demonstrate the operation of this method.
+  
+  You can read more about the project in my bachelor's thesis, which describes the process of creating this device.
 
 Hardware components
 --------------------   
